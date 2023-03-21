@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1678103909 source:c:\users\ich\nextcloud\fh-technikum\proz\code\oasen\main.cpp
+	<iostream>
+	<stdlib.h>
+	<array>
+	<stdlib.h>
+	<time.h>
+	<Windows.h>
+	<Person.h>
+	<Field.h>
+	<Enemy.h>
+	<cmath>
+
+1678093090 source:c:\users\ich\nextcloud\fh-technikum\proz\code\oasen\src\person.cpp
+	<stdio.h>
+	<iostream>
+	<string.h>
+	<Person.h>
+
+1678019668 c:\users\ich\nextcloud\fh-technikum\proz\code\oasen\include\person.h
+	<Field.h>
+
+1678092258 c:\users\ich\nextcloud\fh-technikum\proz\code\oasen\include\field.h
+	<iostream>
+	<Person.h>
+	<Enemy.h>
+
+1678092251 source:c:\users\ich\nextcloud\fh-technikum\proz\code\oasen\src\enemy.cpp
+	<stdio.h>
+	<iostream>
+	<time.h>
+	<Windows.h>
+	"Enemy.h"
+
+1678091959 c:\users\ich\nextcloud\fh-technikum\proz\code\oasen\include\enemy.h
+	<Person.h>
+	<Field.h>
+
+1678020346 source:c:\users\ich\nextcloud\fh-technikum\proz\code\oasen\src\field.cpp
+	<stdio.h>
+	"Field.h"
+	<time.h>
+	<Windows.h>
+	<Enemy.h>
+
